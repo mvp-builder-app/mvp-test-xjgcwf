@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Foundation & Core Features",
+    "description": "Build the fundamental architecture and core MVP features",
+    "duration_weeks": 4,
+    "priority": "high",
+    "status": "planned",
+    "deliverables": [
+      "Basic application architecture",
+      "Core feature implementation",
+      "Database setup",
+      "Basic UI/UX"
+    ]
+  }
+]
